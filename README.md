@@ -1,5 +1,5 @@
 
-# 🔥 Reddit Feed Viewer
+# 🔥 Reddit Feed Viewer 
 
 A sleek and responsive web app built with **HTML, CSS, and JavaScript** that lets you browse top Reddit posts from any subreddit in real-time. Whether you're a casual Redditor or just curious about what's trending — this lightweight viewer has you covered!
 
@@ -66,5 +66,5 @@ A sleek and responsive web app built with **HTML, CSS, and JavaScript** that let
 - 🧠 AI-based post summarizer
 
 ---
-![Reddit Feed Viewer](https://reddit-feed-viewer.netlify.app/)
+#  ![Reddit Feed Viewer](https://reddit-feed-viewer.netlify.app/)
 
