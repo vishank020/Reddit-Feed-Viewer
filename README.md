@@ -4,7 +4,7 @@
 A sleek and responsive web app built with **HTML, CSS, and JavaScript** that lets you browse top Reddit posts from any subreddit in real-time. Whether you're a casual Redditor or just curious about what's trending — this lightweight viewer has you covered!
 
 ![Reddit Feed Viewer Banner](https://img.shields.io/badge/Built%20with-JavaScript%20%7C%20HTML%20%7C%20CSS-blue?style=flat&logo=javascript)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 ---
 
