@@ -22,7 +22,7 @@ A sleek and responsive web app built with **HTML, CSS, and JavaScript** that let
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light UI](screenshots/light_ui.png) | ![Dark UI](screenshots/dark_ui.png) |
+| ![Light UI](screenshots/Light_ui.png) | ![Dark UI](screenshots/Dark_ui.png) |
 
 ---
 
